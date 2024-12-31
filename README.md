@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaresha07&label=Profile%20views&color=0e75b6&style=flat" alt="amaresha07" /> </p>
 
-- 🔭 I’m currently working on **Svelte-Kit, Java**
+- 🔭 I’m currently working on **Svelte-Kit, Go**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
