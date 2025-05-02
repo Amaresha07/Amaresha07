@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Go**
 
-<h3 align="left">Connect with me:<a href:amaresham50@gmail.com></h3>
+<h3 align="left">Connect with me:amaresham50@gmail.com</h3>
 <p align="left">
 </p>
 
