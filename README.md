@@ -11,7 +11,7 @@
   
   💬 **Ask me about:** Go, Backend Development, API Design
   
-  📫 **How to reach me:** amaresham50@gmail.com
+  📫 **How to reach me:** amaresham50@gmail.com & www.linkedin.com/in/amaresha-m-44b868249
   
 </div>
 
